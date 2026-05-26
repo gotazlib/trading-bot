@@ -1,0 +1,30 @@
+==============================================================================
+PAPER-TRADING-BOT — 2026-05-26 07:11 UTC
+==============================================================================
+
+  Bestehender State geladen (Start: 2026-05-25)
+
+  Lade aktuelle Forex-Daten via yfinance …
+    USD/CHF: close=0.78482, WR(prev→now): -59.4 → -41.4
+    EUR/USD: close=1.16333, WR(prev→now): -70.4 → -73.6
+    USD/JPY: close=159.15300, WR(prev→now): -8.7 → -5.0
+    GBP/USD: close=1.34722, WR(prev→now): -49.1 → -51.8
+    AUD/USD: close=0.71638, WR(prev→now): -60.9 → -56.2
+
+  Keine geschlossenen Trades heute.
+
+  AKTUELLER STATUS:
+    Tranche_2x:   3000.00 CHF ( +0.00%) | 0 offene Positionen | Hebel 2.0x
+    Tranche_15x:   2000.00 CHF ( +0.00%) | 0 offene Positionen | Hebel 15.0x
+
+  GESAMT:   5000.00 CHF (+0.00% seit Start)
+
+  Generiere Reports …
+  📊 Excel:  /home/runner/work/trading-bot/trading-bot/results/paper_report.xlsx
+  📊 HTML:   /home/runner/work/trading-bot/trading-bot/results/paper_report.html
+
+  --- HISTORIE (3 Tage) ---
+    Total Return seit Start: +0.00%
+    State-Dateien:           /home/runner/work/trading-bot/trading-bot/results/paper_*.csv
+
+==============================================================================
