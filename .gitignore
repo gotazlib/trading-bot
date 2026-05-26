@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Lokales Datenverzeichnis (alte DB-Dumps etc.)
+data/
+
+# Environment Variables (Secrets!)
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
+
+# Logs (außer paper_log.txt)
+*.log
+
+# Persistente Trading-Daten sind ABSICHTLICH committet:
+#   results/paper_state.json
+#   results/paper_trades.csv
+#   results/paper_equity.csv
+#   results/paper_report.xlsx
+#   results/paper_report.html
+#   results/paper_log.txt

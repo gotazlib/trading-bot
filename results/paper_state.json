@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-05-25T23:10:29.100175+00:00",
+  "initial_capital": 5000.0,
+  "last_run": "2026-05-26",
+  "tranches": {
+    "Tranche_2x": {
+      "leverage": 2.0,
+      "capital_share": 0.6,
+      "capital": 3000.0,
+      "open_positions": {},
+      "name": "Tranche_2x"
+    },
+    "Tranche_15x": {
+      "leverage": 15.0,
+      "capital_share": 0.4,
+      "capital": 2000.0,
+      "open_positions": {},
+      "name": "Tranche_15x"
+    }
+  }
+}

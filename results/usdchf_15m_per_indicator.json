@@ -1,0 +1,2000 @@
+{
+  "rsi_14": {
+    "n_partners": 17,
+    "best_partner": "roc_10",
+    "best_return": 0.004260404109841298,
+    "n_profitable": 2,
+    "avg_return": -0.014152514281052431,
+    "all_partners": [
+      {
+        "partner": "roc_10",
+        "total_return": 0.004260404109841298,
+        "n_trades": 39,
+        "win_rate": 0.5641025641025641
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": 0.00138143959684367,
+        "n_trades": 53,
+        "win_rate": 0.4716981132075472
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.001788622134466622,
+        "n_trades": 43,
+        "win_rate": 0.3953488372093023
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.0021146339408830706,
+        "n_trades": 68,
+        "win_rate": 0.4411764705882353
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.003108084918856391,
+        "n_trades": 43,
+        "win_rate": 0.37209302325581395
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.0035611996960895898,
+        "n_trades": 60,
+        "win_rate": 0.43333333333333335
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.014338119826754703,
+        "n_trades": 119,
+        "win_rate": 0.35294117647058826
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.015388032521673645,
+        "n_trades": 91,
+        "win_rate": 0.3516483516483517
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.018776988108634818,
+        "n_trades": 148,
+        "win_rate": 0.33783783783783783
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.021598475303653997,
+        "n_trades": 148,
+        "win_rate": 0.33783783783783783
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.021731713631259475,
+        "n_trades": 123,
+        "win_rate": 0.3170731707317073
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.021957076051301594,
+        "n_trades": 137,
+        "win_rate": 0.31386861313868614
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.02287330630907891,
+        "n_trades": 138,
+        "win_rate": 0.30434782608695654
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.023355851789881865,
+        "n_trades": 151,
+        "win_rate": 0.33774834437086093
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.024681869152858416,
+        "n_trades": 142,
+        "win_rate": 0.30985915492957744
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.024803317991420437,
+        "n_trades": 150,
+        "win_rate": 0.31333333333333335
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.026157295107762768,
+        "n_trades": 155,
+        "win_rate": 0.2903225806451613
+      }
+    ]
+  },
+  "bb_pct": {
+    "n_partners": 17,
+    "best_partner": "roc_10",
+    "best_return": 0.0011244412211395272,
+    "n_profitable": 2,
+    "avg_return": -0.011201853018300992,
+    "all_partners": [
+      {
+        "partner": "roc_10",
+        "total_return": 0.0011244412211395272,
+        "n_trades": 7,
+        "win_rate": 0.7142857142857143
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": 0.0009374755614304231,
+        "n_trades": 37,
+        "win_rate": 0.43243243243243246
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.001364698056435687,
+        "n_trades": 87,
+        "win_rate": 0.41379310344827586
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.0021769935178060917,
+        "n_trades": 52,
+        "win_rate": 0.38461538461538464
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.003174693011730678,
+        "n_trades": 76,
+        "win_rate": 0.42105263157894735
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.0034314074142075546,
+        "n_trades": 22,
+        "win_rate": 0.36363636363636365
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.004980931382643883,
+        "n_trades": 78,
+        "win_rate": 0.46153846153846156
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.006344107254841247,
+        "n_trades": 99,
+        "win_rate": 0.40404040404040403
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.011562682937746649,
+        "n_trades": 129,
+        "win_rate": 0.40310077519379844
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.011876599411865363,
+        "n_trades": 142,
+        "win_rate": 0.39436619718309857
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.01482367473926438,
+        "n_trades": 168,
+        "win_rate": 0.39880952380952384
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.01574466765851157,
+        "n_trades": 171,
+        "win_rate": 0.4269005847953216
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.021882389905988786,
+        "n_trades": 141,
+        "win_rate": 0.36879432624113473
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.02189549541263136,
+        "n_trades": 153,
+        "win_rate": 0.37254901960784315
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.022611660180048454,
+        "n_trades": 168,
+        "win_rate": 0.3630952380952381
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.024803317991420437,
+        "n_trades": 150,
+        "win_rate": 0.31333333333333335
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.025820099218544668,
+        "n_trades": 167,
+        "win_rate": 0.3652694610778443
+      }
+    ]
+  },
+  "stoch_k": {
+    "n_partners": 17,
+    "best_partner": "roc_10",
+    "best_return": 0.0009598261650034523,
+    "n_profitable": 2,
+    "avg_return": -0.012633113261045293,
+    "all_partners": [
+      {
+        "partner": "roc_10",
+        "total_return": 0.0009598261650034523,
+        "n_trades": 30,
+        "win_rate": 0.5333333333333333
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": 0.0002730574607208158,
+        "n_trades": 65,
+        "win_rate": 0.47692307692307695
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.006882920415218541,
+        "n_trades": 104,
+        "win_rate": 0.40384615384615385
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.006907743075053152,
+        "n_trades": 72,
+        "win_rate": 0.4583333333333333
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.0069754020873449285,
+        "n_trades": 114,
+        "win_rate": 0.41228070175438597
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.007419448616887148,
+        "n_trades": 76,
+        "win_rate": 0.3684210526315789
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.007963517620847682,
+        "n_trades": 100,
+        "win_rate": 0.39
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.010767544656118955,
+        "n_trades": 125,
+        "win_rate": 0.36
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.013544644796974148,
+        "n_trades": 141,
+        "win_rate": 0.3546099290780142
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.01482367473926438,
+        "n_trades": 168,
+        "win_rate": 0.39880952380952384
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.01681433397621024,
+        "n_trades": 149,
+        "win_rate": 0.3825503355704698
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.01683945251193608,
+        "n_trades": 177,
+        "win_rate": 0.3954802259887006
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.01787554839015859,
+        "n_trades": 108,
+        "win_rate": 0.3611111111111111
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.018727563919733403,
+        "n_trades": 167,
+        "win_rate": 0.38922155688622756
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.020439921144907447,
+        "n_trades": 160,
+        "win_rate": 0.34375
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.023856798005076785,
+        "n_trades": 162,
+        "win_rate": 0.35802469135802467
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.026157295107762768,
+        "n_trades": 155,
+        "win_rate": 0.2903225806451613
+      }
+    ]
+  },
+  "williams_r_14": {
+    "n_partners": 17,
+    "best_partner": "macd_hist",
+    "best_return": -0.0002757153201510265,
+    "n_profitable": 0,
+    "avg_return": -0.01145153634075756,
+    "all_partners": [
+      {
+        "partner": "macd_hist",
+        "total_return": -0.0002757153201510265,
+        "n_trades": 46,
+        "win_rate": 0.41304347826086957
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.0009190876370112067,
+        "n_trades": 15,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.002363161734365571,
+        "n_trades": 99,
+        "win_rate": 0.4444444444444444
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.0046363582484828525,
+        "n_trades": 66,
+        "win_rate": 0.3939393939393939
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.005414202093115716,
+        "n_trades": 95,
+        "win_rate": 0.4105263157894737
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.006001075029546166,
+        "n_trades": 111,
+        "win_rate": 0.43243243243243246
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.006581243314807805,
+        "n_trades": 39,
+        "win_rate": 0.3333333333333333
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.010692499492198193,
+        "n_trades": 78,
+        "win_rate": 0.3717948717948718
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.011256874624154256,
+        "n_trades": 120,
+        "win_rate": 0.36666666666666664
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.014426484043061238,
+        "n_trades": 135,
+        "win_rate": 0.35555555555555557
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.01683945251193608,
+        "n_trades": 177,
+        "win_rate": 0.3954802259887006
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.017580035441388753,
+        "n_trades": 123,
+        "win_rate": 0.34959349593495936
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.018319189153637505,
+        "n_trades": 158,
+        "win_rate": 0.4050632911392405
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.018776988108634818,
+        "n_trades": 148,
+        "win_rate": 0.33783783783783783
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.018803579473825827,
+        "n_trades": 153,
+        "win_rate": 0.35947712418300654
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.019178511386513053,
+        "n_trades": 161,
+        "win_rate": 0.37267080745341613
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.022611660180048454,
+        "n_trades": 168,
+        "win_rate": 0.3630952380952381
+      }
+    ]
+  },
+  "cci_20": {
+    "n_partners": 17,
+    "best_partner": "roc_10",
+    "best_return": 0.002050818872831206,
+    "n_profitable": 1,
+    "avg_return": -0.011837758353165348,
+    "all_partners": [
+      {
+        "partner": "roc_10",
+        "total_return": 0.002050818872831206,
+        "n_trades": 9,
+        "win_rate": 0.6666666666666666
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.00020710214152941386,
+        "n_trades": 37,
+        "win_rate": 0.40540540540540543
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.0016703409701681604,
+        "n_trades": 23,
+        "win_rate": 0.4782608695652174
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.0021763208175487048,
+        "n_trades": 83,
+        "win_rate": 0.42168674698795183
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.004438453452955349,
+        "n_trades": 48,
+        "win_rate": 0.375
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.004445399225770363,
+        "n_trades": 71,
+        "win_rate": 0.4507042253521127
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.00482063347746442,
+        "n_trades": 95,
+        "win_rate": 0.42105263157894735
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.008022269229609913,
+        "n_trades": 98,
+        "win_rate": 0.4387755102040816
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.01403092268396866,
+        "n_trades": 150,
+        "win_rate": 0.38666666666666666
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.014065924047177436,
+        "n_trades": 133,
+        "win_rate": 0.39849624060150374
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.01574466765851157,
+        "n_trades": 171,
+        "win_rate": 0.4269005847953216
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.018727563919733403,
+        "n_trades": 167,
+        "win_rate": 0.38922155688622756
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.019178511386513053,
+        "n_trades": 161,
+        "win_rate": 0.37267080745341613
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.021598475303653997,
+        "n_trades": 148,
+        "win_rate": 0.33783783783783783
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.023320174319562348,
+        "n_trades": 159,
+        "win_rate": 0.3836477987421384
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.025299814798894316,
+        "n_trades": 165,
+        "win_rate": 0.36363636363636365
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.02554613744358103,
+        "n_trades": 153,
+        "win_rate": 0.3464052287581699
+      }
+    ]
+  },
+  "macd_hist": {
+    "n_partners": 17,
+    "best_partner": "bb_pct",
+    "best_return": 0.0009374755614304231,
+    "n_profitable": 2,
+    "avg_return": -0.011421125269530293,
+    "all_partners": [
+      {
+        "partner": "bb_pct",
+        "total_return": 0.0009374755614304231,
+        "n_trades": 37,
+        "win_rate": 0.43243243243243246
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": 0.0002730574607208158,
+        "n_trades": 65,
+        "win_rate": 0.47692307692307695
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.00020710214152941386,
+        "n_trades": 37,
+        "win_rate": 0.40540540540540543
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.0002757153201510265,
+        "n_trades": 46,
+        "win_rate": 0.41304347826086957
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.0015544039930590614,
+        "n_trades": 29,
+        "win_rate": 0.4482758620689655
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.003108084918856391,
+        "n_trades": 43,
+        "win_rate": 0.37209302325581395
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.009089380497968813,
+        "n_trades": 134,
+        "win_rate": 0.39552238805970147
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.011255612666553394,
+        "n_trades": 166,
+        "win_rate": 0.43373493975903615
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.013115712702512328,
+        "n_trades": 174,
+        "win_rate": 0.42528735632183906
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.013371624789734082,
+        "n_trades": 180,
+        "win_rate": 0.4111111111111111
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.01398864082833251,
+        "n_trades": 99,
+        "win_rate": 0.3333333333333333
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.016398840380720925,
+        "n_trades": 182,
+        "win_rate": 0.4010989010989011
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.01934140713817445,
+        "n_trades": 203,
+        "win_rate": 0.3645320197044335
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.019831954829042764,
+        "n_trades": 195,
+        "win_rate": 0.37948717948717947
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.023943105024137767,
+        "n_trades": 178,
+        "win_rate": 0.33707865168539325
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.02397439028014725,
+        "n_trades": 199,
+        "win_rate": 0.36683417085427134
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.02591368709324604,
+        "n_trades": 204,
+        "win_rate": 0.3627450980392157
+      }
+    ]
+  },
+  "ema_ratio": {
+    "n_partners": 17,
+    "best_partner": "rsi_14",
+    "best_return": 0.00138143959684367,
+    "n_profitable": 2,
+    "avg_return": -0.009413108924906459,
+    "all_partners": [
+      {
+        "partner": "rsi_14",
+        "total_return": 0.00138143959684367,
+        "n_trades": 53,
+        "win_rate": 0.4716981132075472
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": 0.0004171393014043012,
+        "n_trades": 65,
+        "win_rate": 0.49230769230769234
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.001364698056435687,
+        "n_trades": 87,
+        "win_rate": 0.41379310344827586
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.0017089604739779496,
+        "n_trades": 40,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.0021763208175487048,
+        "n_trades": 83,
+        "win_rate": 0.42168674698795183
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.002363161734365571,
+        "n_trades": 99,
+        "win_rate": 0.4444444444444444
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.004016978703795027,
+        "n_trades": 85,
+        "win_rate": 0.4470588235294118
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.006882920415218541,
+        "n_trades": 104,
+        "win_rate": 0.40384615384615385
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.010109401699608167,
+        "n_trades": 181,
+        "win_rate": 0.46408839779005523
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.0118977581122518,
+        "n_trades": 184,
+        "win_rate": 0.42391304347826086
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.013115712702512328,
+        "n_trades": 174,
+        "win_rate": 0.42528735632183906
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.015000743310839115,
+        "n_trades": 168,
+        "win_rate": 0.4166666666666667
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.01747063666837856,
+        "n_trades": 197,
+        "win_rate": 0.41116751269035534
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.017795404886650545,
+        "n_trades": 188,
+        "win_rate": 0.4308510638297872
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.0180995186331252,
+        "n_trades": 193,
+        "win_rate": 0.41968911917098445
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.01877345582397294,
+        "n_trades": 194,
+        "win_rate": 0.41237113402061853
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.021045758582977636,
+        "n_trades": 193,
+        "win_rate": 0.38341968911917096
+      }
+    ]
+  },
+  "sma_ratio": {
+    "n_partners": 17,
+    "best_partner": "rsi_14",
+    "best_return": -0.0021146339408830706,
+    "n_profitable": 0,
+    "avg_return": -0.011224326205442265,
+    "all_partners": [
+      {
+        "partner": "rsi_14",
+        "total_return": -0.0021146339408830706,
+        "n_trades": 68,
+        "win_rate": 0.4411764705882353
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.002839321104831205,
+        "n_trades": 49,
+        "win_rate": 0.3877551020408163
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.00482063347746442,
+        "n_trades": 95,
+        "win_rate": 0.42105263157894735
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.006001075029546166,
+        "n_trades": 111,
+        "win_rate": 0.43243243243243246
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.006344107254841247,
+        "n_trades": 99,
+        "win_rate": 0.40404040404040403
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.0069754020873449285,
+        "n_trades": 114,
+        "win_rate": 0.41228070175438597
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.008783571375313048,
+        "n_trades": 80,
+        "win_rate": 0.3875
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.011255612666553394,
+        "n_trades": 166,
+        "win_rate": 0.43373493975903615
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.01186152493202508,
+        "n_trades": 83,
+        "win_rate": 0.3253012048192771
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.013335130945557383,
+        "n_trades": 190,
+        "win_rate": 0.41578947368421054
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.013420872218323221,
+        "n_trades": 182,
+        "win_rate": 0.41208791208791207
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.014350190695902487,
+        "n_trades": 170,
+        "win_rate": 0.4176470588235294
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.015307198353334162,
+        "n_trades": 192,
+        "win_rate": 0.4166666666666667
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.015452684709240883,
+        "n_trades": 186,
+        "win_rate": 0.43010752688172044
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.016171112746233507,
+        "n_trades": 182,
+        "win_rate": 0.4175824175824176
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.02073471537214666,
+        "n_trades": 184,
+        "win_rate": 0.41304347826086957
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.021045758582977636,
+        "n_trades": 193,
+        "win_rate": 0.38341968911917096
+      }
+    ]
+  },
+  "roc_10": {
+    "n_partners": 17,
+    "best_partner": "rsi_14",
+    "best_return": 0.004260404109841298,
+    "n_profitable": 5,
+    "avg_return": -0.00984048356321223,
+    "all_partners": [
+      {
+        "partner": "rsi_14",
+        "total_return": 0.004260404109841298,
+        "n_trades": 39,
+        "win_rate": 0.5641025641025641
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": 0.0038396349512799244,
+        "n_trades": 10,
+        "win_rate": 0.8
+      },
+      {
+        "partner": "cci_20",
+        "total_return": 0.002050818872831206,
+        "n_trades": 9,
+        "win_rate": 0.6666666666666666
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": 0.0011244412211395272,
+        "n_trades": 7,
+        "win_rate": 0.7142857142857143
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": 0.0009598261650034523,
+        "n_trades": 30,
+        "win_rate": 0.5333333333333333
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.0009190876370112067,
+        "n_trades": 15,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.010465264912983052,
+        "n_trades": 130,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.0118977581122518,
+        "n_trades": 184,
+        "win_rate": 0.42391304347826086
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.013420872218323221,
+        "n_trades": 182,
+        "win_rate": 0.41208791208791207
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.013988942413270089,
+        "n_trades": 191,
+        "win_rate": 0.39790575916230364
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.01469188566563584,
+        "n_trades": 100,
+        "win_rate": 0.34
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.016233254628723826,
+        "n_trades": 193,
+        "win_rate": 0.40414507772020725
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.017618375049457402,
+        "n_trades": 202,
+        "win_rate": 0.400990099009901
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.019200975638101858,
+        "n_trades": 199,
+        "win_rate": 0.3969849246231156
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.01934140713817445,
+        "n_trades": 203,
+        "win_rate": 0.3645320197044335
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.020016625883355066,
+        "n_trades": 193,
+        "win_rate": 0.40414507772020725
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.021728896597415503,
+        "n_trades": 174,
+        "win_rate": 0.3448275862068966
+      }
+    ]
+  },
+  "roc_30": {
+    "n_partners": 17,
+    "best_partner": "aroon_osc",
+    "best_return": -0.00014628028323837583,
+    "n_profitable": 0,
+    "avg_return": -0.011323064456961407,
+    "all_partners": [
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.00014628028323837583,
+        "n_trades": 58,
+        "win_rate": 0.46551724137931033
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.0020708217217795255,
+        "n_trades": 56,
+        "win_rate": 0.44642857142857145
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.003174693011730678,
+        "n_trades": 76,
+        "win_rate": 0.42105263157894735
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.0035611996960895898,
+        "n_trades": 60,
+        "win_rate": 0.43333333333333335
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.004445399225770363,
+        "n_trades": 71,
+        "win_rate": 0.4507042253521127
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.005414202093115716,
+        "n_trades": 95,
+        "win_rate": 0.4105263157894737
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.005611958923294136,
+        "n_trades": 92,
+        "win_rate": 0.391304347826087
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.007963517620847682,
+        "n_trades": 100,
+        "win_rate": 0.39
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.013335130945557383,
+        "n_trades": 190,
+        "win_rate": 0.41578947368421054
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.013371624789734082,
+        "n_trades": 180,
+        "win_rate": 0.4111111111111111
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.01550293583450435,
+        "n_trades": 194,
+        "win_rate": 0.42783505154639173
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.015937472653829055,
+        "n_trades": 169,
+        "win_rate": 0.40236686390532544
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.016233254628723826,
+        "n_trades": 193,
+        "win_rate": 0.40414507772020725
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.018024072179885664,
+        "n_trades": 198,
+        "win_rate": 0.41919191919191917
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.01877345582397294,
+        "n_trades": 194,
+        "win_rate": 0.41237113402061853
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.021965184939363613,
+        "n_trades": 192,
+        "win_rate": 0.3958333333333333
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.02696089139690694,
+        "n_trades": 200,
+        "win_rate": 0.375
+      }
+    ]
+  },
+  "ret_1": {
+    "n_partners": 17,
+    "best_partner": "aroon_up",
+    "best_return": -0.011220978738513354,
+    "n_profitable": 0,
+    "avg_return": -0.019624091412634895,
+    "all_partners": [
+      {
+        "partner": "aroon_up",
+        "total_return": -0.011220978738513354,
+        "n_trades": 177,
+        "win_rate": 0.4067796610169492
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.011936498601873957,
+        "n_trades": 149,
+        "win_rate": 0.40939597315436244
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.01227805693904438,
+        "n_trades": 186,
+        "win_rate": 0.43010752688172044
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.015968415707745875,
+        "n_trades": 169,
+        "win_rate": 0.40236686390532544
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.01681433397621024,
+        "n_trades": 149,
+        "win_rate": 0.3825503355704698
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.017580035441388753,
+        "n_trades": 123,
+        "win_rate": 0.34959349593495936
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.017795404886650545,
+        "n_trades": 188,
+        "win_rate": 0.4308510638297872
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.020016625883355066,
+        "n_trades": 193,
+        "win_rate": 0.40414507772020725
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.02073471537214666,
+        "n_trades": 184,
+        "win_rate": 0.41304347826086957
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.021882389905988786,
+        "n_trades": 141,
+        "win_rate": 0.36879432624113473
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.021965184939363613,
+        "n_trades": 192,
+        "win_rate": 0.3958333333333333
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.02287330630907891,
+        "n_trades": 138,
+        "win_rate": 0.30434782608695654
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.023320174319562348,
+        "n_trades": 159,
+        "win_rate": 0.3836477987421384
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.02361516590342494,
+        "n_trades": 135,
+        "win_rate": 0.3333333333333333
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.02397439028014725,
+        "n_trades": 199,
+        "win_rate": 0.36683417085427134
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.025249761841911855,
+        "n_trades": 201,
+        "win_rate": 0.373134328358209
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.026384114968386663,
+        "n_trades": 199,
+        "win_rate": 0.36180904522613067
+      }
+    ]
+  },
+  "ret_3": {
+    "n_partners": 17,
+    "best_partner": "bb_pct",
+    "best_return": -0.004980931382643883,
+    "n_profitable": 0,
+    "avg_return": -0.01614536206883141,
+    "all_partners": [
+      {
+        "partner": "bb_pct",
+        "total_return": -0.004980931382643883,
+        "n_trades": 78,
+        "win_rate": 0.46153846153846156
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.008022269229609913,
+        "n_trades": 98,
+        "win_rate": 0.4387755102040816
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.009446495798040133,
+        "n_trades": 171,
+        "win_rate": 0.4093567251461988
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.010692499492198193,
+        "n_trades": 78,
+        "win_rate": 0.3717948717948718
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.010904299596929401,
+        "n_trades": 169,
+        "win_rate": 0.40828402366863903
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.011449983275392817,
+        "n_trades": 134,
+        "win_rate": 0.3880597014925373
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.01326044499551493,
+        "n_trades": 201,
+        "win_rate": 0.42786069651741293
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.015452684709240883,
+        "n_trades": 186,
+        "win_rate": 0.43010752688172044
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.017810132704439208,
+        "n_trades": 106,
+        "win_rate": 0.3584905660377358
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.01787554839015859,
+        "n_trades": 108,
+        "win_rate": 0.3611111111111111
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.0180995186331252,
+        "n_trades": 193,
+        "win_rate": 0.41968911917098445
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.019200975638101858,
+        "n_trades": 199,
+        "win_rate": 0.3969849246231156
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.019831954829042764,
+        "n_trades": 195,
+        "win_rate": 0.37948717948717947
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.021731713631259475,
+        "n_trades": 123,
+        "win_rate": 0.3170731707317073
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.022366696499143135,
+        "n_trades": 198,
+        "win_rate": 0.3888888888888889
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.026384114968386663,
+        "n_trades": 199,
+        "win_rate": 0.36180904522613067
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.02696089139690694,
+        "n_trades": 200,
+        "win_rate": 0.375
+      }
+    ]
+  },
+  "ret_6": {
+    "n_partners": 17,
+    "best_partner": "cci_20",
+    "best_return": -0.0016703409701681604,
+    "n_profitable": 0,
+    "avg_return": -0.01342902778503452,
+    "all_partners": [
+      {
+        "partner": "cci_20",
+        "total_return": -0.0016703409701681604,
+        "n_trades": 23,
+        "win_rate": 0.4782608695652174
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.0034314074142075546,
+        "n_trades": 22,
+        "win_rate": 0.36363636363636365
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.004924237976387857,
+        "n_trades": 45,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.006581243314807805,
+        "n_trades": 39,
+        "win_rate": 0.3333333333333333
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.006907743075053152,
+        "n_trades": 72,
+        "win_rate": 0.4583333333333333
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.010109401699608167,
+        "n_trades": 181,
+        "win_rate": 0.46408839779005523
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.013223720134456718,
+        "n_trades": 187,
+        "win_rate": 0.43315508021390375
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.01326044499551493,
+        "n_trades": 201,
+        "win_rate": 0.42786069651741293
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.01514064934488335,
+        "n_trades": 110,
+        "win_rate": 0.34545454545454546
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.015388032521673645,
+        "n_trades": 91,
+        "win_rate": 0.3516483516483517
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.01550293583450435,
+        "n_trades": 194,
+        "win_rate": 0.42783505154639173
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.016171112746233507,
+        "n_trades": 182,
+        "win_rate": 0.4175824175824176
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.017618375049457402,
+        "n_trades": 202,
+        "win_rate": 0.400990099009901
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.018026572487491177,
+        "n_trades": 177,
+        "win_rate": 0.3672316384180791
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.019173805845981162,
+        "n_trades": 154,
+        "win_rate": 0.37012987012987014
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.025249761841911855,
+        "n_trades": 201,
+        "win_rate": 0.373134328358209
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.02591368709324604,
+        "n_trades": 204,
+        "win_rate": 0.3627450980392157
+      }
+    ]
+  },
+  "keltner_pct": {
+    "n_partners": 17,
+    "best_partner": "roc_10",
+    "best_return": 0.0038396349512799244,
+    "n_profitable": 2,
+    "avg_return": -0.013427902394744132,
+    "all_partners": [
+      {
+        "partner": "roc_10",
+        "total_return": 0.0038396349512799244,
+        "n_trades": 10,
+        "win_rate": 0.8
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": 0.0004171393014043012,
+        "n_trades": 65,
+        "win_rate": 0.49230769230769234
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.0005103588395843905,
+        "n_trades": 33,
+        "win_rate": 0.48484848484848486
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.0015544039930590614,
+        "n_trades": 29,
+        "win_rate": 0.4482758620689655
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.0020708217217795255,
+        "n_trades": 56,
+        "win_rate": 0.44642857142857145
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.004924237976387857,
+        "n_trades": 45,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.008783571375313048,
+        "n_trades": 80,
+        "win_rate": 0.3875
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.014795147124066377,
+        "n_trades": 130,
+        "win_rate": 0.38461538461538464
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.016554556715752233,
+        "n_trades": 146,
+        "win_rate": 0.363013698630137
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.017810132704439208,
+        "n_trades": 106,
+        "win_rate": 0.3584905660377358
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.018319189153637505,
+        "n_trades": 158,
+        "win_rate": 0.4050632911392405
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.023355851789881865,
+        "n_trades": 151,
+        "win_rate": 0.33774834437086093
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.02361516590342494,
+        "n_trades": 135,
+        "win_rate": 0.3333333333333333
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.023856798005076785,
+        "n_trades": 162,
+        "win_rate": 0.35802469135802467
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.025260965643492672,
+        "n_trades": 153,
+        "win_rate": 0.35947712418300654
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.025299814798894316,
+        "n_trades": 165,
+        "win_rate": 0.36363636363636365
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.025820099218544668,
+        "n_trades": 167,
+        "win_rate": 0.3652694610778443
+      }
+    ]
+  },
+  "aroon_up": {
+    "n_partners": 17,
+    "best_partner": "ema_ratio",
+    "best_return": -0.004016978703795027,
+    "n_profitable": 0,
+    "avg_return": -0.013723734012170459,
+    "all_partners": [
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.004016978703795027,
+        "n_trades": 85,
+        "win_rate": 0.4470588235294118
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.005611958923294136,
+        "n_trades": 92,
+        "win_rate": 0.391304347826087
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.006946158156380777,
+        "n_trades": 97,
+        "win_rate": 0.3917525773195876
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.009089380497968813,
+        "n_trades": 134,
+        "win_rate": 0.39552238805970147
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.010465264912983052,
+        "n_trades": 130,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.010904299596929401,
+        "n_trades": 169,
+        "win_rate": 0.40828402366863903
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.011220978738513354,
+        "n_trades": 177,
+        "win_rate": 0.4067796610169492
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.01186152493202508,
+        "n_trades": 83,
+        "win_rate": 0.3253012048192771
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.011876599411865363,
+        "n_trades": 142,
+        "win_rate": 0.39436619718309857
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.013544644796974148,
+        "n_trades": 141,
+        "win_rate": 0.3546099290780142
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.01403092268396866,
+        "n_trades": 150,
+        "win_rate": 0.38666666666666666
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.014426484043061238,
+        "n_trades": 135,
+        "win_rate": 0.35555555555555557
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.016554556715752233,
+        "n_trades": 146,
+        "win_rate": 0.363013698630137
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.019173805845981162,
+        "n_trades": 154,
+        "win_rate": 0.37012987012987014
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.021957076051301594,
+        "n_trades": 137,
+        "win_rate": 0.31386861313868614
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.022483603623606907,
+        "n_trades": 151,
+        "win_rate": 0.33112582781456956
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.02913924057249684,
+        "n_trades": 165,
+        "win_rate": 0.32727272727272727
+      }
+    ]
+  },
+  "aroon_osc": {
+    "n_partners": 17,
+    "best_partner": "roc_30",
+    "best_return": -0.00014628028323837583,
+    "n_profitable": 0,
+    "avg_return": -0.011168337285765736,
+    "all_partners": [
+      {
+        "partner": "roc_30",
+        "total_return": -0.00014628028323837583,
+        "n_trades": 58,
+        "win_rate": 0.46551724137931033
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.000774901245598536,
+        "n_trades": 54,
+        "win_rate": 0.4074074074074074
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.0017089604739779496,
+        "n_trades": 40,
+        "win_rate": 0.4
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.002839321104831205,
+        "n_trades": 49,
+        "win_rate": 0.3877551020408163
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.010767544656118955,
+        "n_trades": 125,
+        "win_rate": 0.36
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.011256874624154256,
+        "n_trades": 120,
+        "win_rate": 0.36666666666666664
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.011449983275392817,
+        "n_trades": 134,
+        "win_rate": 0.3880597014925373
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.011562682937746649,
+        "n_trades": 129,
+        "win_rate": 0.40310077519379844
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.011936498601873957,
+        "n_trades": 149,
+        "win_rate": 0.40939597315436244
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.01398864082833251,
+        "n_trades": 99,
+        "win_rate": 0.3333333333333333
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.014065924047177436,
+        "n_trades": 133,
+        "win_rate": 0.39849624060150374
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.014338119826754703,
+        "n_trades": 119,
+        "win_rate": 0.35294117647058826
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.01469188566563584,
+        "n_trades": 100,
+        "win_rate": 0.34
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.014795147124066377,
+        "n_trades": 130,
+        "win_rate": 0.38461538461538464
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.01514064934488335,
+        "n_trades": 110,
+        "win_rate": 0.34545454545454546
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.0179147161946277,
+        "n_trades": 136,
+        "win_rate": 0.375
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.022483603623606907,
+        "n_trades": 151,
+        "win_rate": 0.33112582781456956
+      }
+    ]
+  },
+  "adx_14": {
+    "n_partners": 17,
+    "best_partner": "ret_3",
+    "best_return": -0.009446495798040133,
+    "n_profitable": 0,
+    "avg_return": -0.019587444277208533,
+    "all_partners": [
+      {
+        "partner": "ret_3",
+        "total_return": -0.009446495798040133,
+        "n_trades": 171,
+        "win_rate": 0.4093567251461988
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.014350190695902487,
+        "n_trades": 170,
+        "win_rate": 0.4176470588235294
+      },
+      {
+        "partner": "trend_strength",
+        "total_return": -0.014902735398722666,
+        "n_trades": 170,
+        "win_rate": 0.40588235294117647
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.015000743310839115,
+        "n_trades": 168,
+        "win_rate": 0.4166666666666667
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.015937472653829055,
+        "n_trades": 169,
+        "win_rate": 0.40236686390532544
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.015968415707745875,
+        "n_trades": 169,
+        "win_rate": 0.40236686390532544
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.0179147161946277,
+        "n_trades": 136,
+        "win_rate": 0.375
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.018026572487491177,
+        "n_trades": 177,
+        "win_rate": 0.3672316384180791
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.018803579473825827,
+        "n_trades": 153,
+        "win_rate": 0.35947712418300654
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.020439921144907447,
+        "n_trades": 160,
+        "win_rate": 0.34375
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.021728896597415503,
+        "n_trades": 174,
+        "win_rate": 0.3448275862068966
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.02189549541263136,
+        "n_trades": 153,
+        "win_rate": 0.37254901960784315
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.023943105024137767,
+        "n_trades": 178,
+        "win_rate": 0.33707865168539325
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.024681869152858416,
+        "n_trades": 142,
+        "win_rate": 0.30985915492957744
+      },
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.025260965643492672,
+        "n_trades": 153,
+        "win_rate": 0.35947712418300654
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.02554613744358103,
+        "n_trades": 153,
+        "win_rate": 0.3464052287581699
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.02913924057249684,
+        "n_trades": 165,
+        "win_rate": 0.32727272727272727
+      }
+    ]
+  },
+  "trend_strength": {
+    "n_partners": 17,
+    "best_partner": "keltner_pct",
+    "best_return": -0.0005103588395843905,
+    "n_profitable": 0,
+    "avg_return": -0.010156011363477532,
+    "all_partners": [
+      {
+        "partner": "keltner_pct",
+        "total_return": -0.0005103588395843905,
+        "n_trades": 33,
+        "win_rate": 0.48484848484848486
+      },
+      {
+        "partner": "aroon_osc",
+        "total_return": -0.000774901245598536,
+        "n_trades": 54,
+        "win_rate": 0.4074074074074074
+      },
+      {
+        "partner": "rsi_14",
+        "total_return": -0.001788622134466622,
+        "n_trades": 43,
+        "win_rate": 0.3953488372093023
+      },
+      {
+        "partner": "bb_pct",
+        "total_return": -0.0021769935178060917,
+        "n_trades": 52,
+        "win_rate": 0.38461538461538464
+      },
+      {
+        "partner": "cci_20",
+        "total_return": -0.004438453452955349,
+        "n_trades": 48,
+        "win_rate": 0.375
+      },
+      {
+        "partner": "williams_r_14",
+        "total_return": -0.0046363582484828525,
+        "n_trades": 66,
+        "win_rate": 0.3939393939393939
+      },
+      {
+        "partner": "aroon_up",
+        "total_return": -0.006946158156380777,
+        "n_trades": 97,
+        "win_rate": 0.3917525773195876
+      },
+      {
+        "partner": "stoch_k",
+        "total_return": -0.007419448616887148,
+        "n_trades": 76,
+        "win_rate": 0.3684210526315789
+      },
+      {
+        "partner": "ret_1",
+        "total_return": -0.01227805693904438,
+        "n_trades": 186,
+        "win_rate": 0.43010752688172044
+      },
+      {
+        "partner": "ret_6",
+        "total_return": -0.013223720134456718,
+        "n_trades": 187,
+        "win_rate": 0.43315508021390375
+      },
+      {
+        "partner": "roc_10",
+        "total_return": -0.013988942413270089,
+        "n_trades": 191,
+        "win_rate": 0.39790575916230364
+      },
+      {
+        "partner": "adx_14",
+        "total_return": -0.014902735398722666,
+        "n_trades": 170,
+        "win_rate": 0.40588235294117647
+      },
+      {
+        "partner": "sma_ratio",
+        "total_return": -0.015307198353334162,
+        "n_trades": 192,
+        "win_rate": 0.4166666666666667
+      },
+      {
+        "partner": "macd_hist",
+        "total_return": -0.016398840380720925,
+        "n_trades": 182,
+        "win_rate": 0.4010989010989011
+      },
+      {
+        "partner": "ema_ratio",
+        "total_return": -0.01747063666837856,
+        "n_trades": 197,
+        "win_rate": 0.41116751269035534
+      },
+      {
+        "partner": "roc_30",
+        "total_return": -0.018024072179885664,
+        "n_trades": 198,
+        "win_rate": 0.41919191919191917
+      },
+      {
+        "partner": "ret_3",
+        "total_return": -0.022366696499143135,
+        "n_trades": 198,
+        "win_rate": 0.3888888888888889
+      }
+    ]
+  }
+}
