@@ -1,21 +1,23 @@
 ==============================================================================
-PAPER-TRADING-BOT — 2026-05-26 07:11 UTC
+PAPER-TRADING-BOT — 2026-05-26 23:06 UTC
 ==============================================================================
 
   Bestehender State geladen (Start: 2026-05-25)
 
   Lade aktuelle Forex-Daten via yfinance …
-    USD/CHF: close=0.78482, WR(prev→now): -59.4 → -41.4
-    EUR/USD: close=1.16333, WR(prev→now): -70.4 → -73.6
-    USD/JPY: close=159.15300, WR(prev→now): -8.7 → -5.0
-    GBP/USD: close=1.34722, WR(prev→now): -49.1 → -51.8
-    AUD/USD: close=0.71638, WR(prev→now): -60.9 → -56.2
+    USD/CHF: close=0.78539, WR(prev→now): -54.2 → -37.3
+    EUR/USD: close=1.16401, WR(prev→now): -71.7 → -70.4
+    USD/JPY: close=159.25200, WR(prev→now): -12.5 → -4.1
+    GBP/USD: close=1.34515, WR(prev→now): -44.8 → -57.7
+    AUD/USD: close=0.71705, WR(prev→now): -52.8 → -52.7
 
   Keine geschlossenen Trades heute.
 
   AKTUELLER STATUS:
-    Tranche_2x:   3000.00 CHF ( +0.00%) | 0 offene Positionen | Hebel 2.0x
-    Tranche_15x:   2000.00 CHF ( +0.00%) | 0 offene Positionen | Hebel 15.0x
+    Tranche_2x:   3000.00 CHF ( +0.00%) | 1 offene Positionen | Hebel 2.0x
+        SHORT USD/JPY: entry 159.25200 → now 159.25200  (-0.00% gross, seit 2026-05-26)
+    Tranche_15x:   2000.00 CHF ( +0.00%) | 1 offene Positionen | Hebel 15.0x
+        SHORT USD/JPY: entry 159.25200 → now 159.25200  (-0.00% gross, seit 2026-05-26)
 
   GESAMT:   5000.00 CHF (+0.00% seit Start)
 
@@ -23,7 +25,7 @@ PAPER-TRADING-BOT — 2026-05-26 07:11 UTC
   📊 Excel:  /home/runner/work/trading-bot/trading-bot/results/paper_report.xlsx
   📊 HTML:   /home/runner/work/trading-bot/trading-bot/results/paper_report.html
 
-  --- HISTORIE (3 Tage) ---
+  --- HISTORIE (4 Tage) ---
     Total Return seit Start: +0.00%
     State-Dateien:           /home/runner/work/trading-bot/trading-bot/results/paper_*.csv
 

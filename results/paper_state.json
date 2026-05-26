@@ -7,14 +7,28 @@
       "leverage": 2.0,
       "capital_share": 0.6,
       "capital": 3000.0,
-      "open_positions": {},
+      "open_positions": {
+        "USD/JPY": {
+          "entry_date": "2026-05-26",
+          "entry_price": 159.2519989013672,
+          "direction": -1,
+          "position_frac": 0.1
+        }
+      },
       "name": "Tranche_2x"
     },
     "Tranche_15x": {
       "leverage": 15.0,
       "capital_share": 0.4,
       "capital": 2000.0,
-      "open_positions": {},
+      "open_positions": {
+        "USD/JPY": {
+          "entry_date": "2026-05-26",
+          "entry_price": 159.2519989013672,
+          "direction": -1,
+          "position_frac": 0.1
+        }
+      },
       "name": "Tranche_15x"
     }
   }
