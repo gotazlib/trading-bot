@@ -1,32 +1,32 @@
 ==============================================================================
-PAPER-TRADING-BOT — 2026-05-29 23:09 UTC
+PAPER-TRADING-BOT — 2026-06-01 23:25 UTC
 ==============================================================================
 
   Bestehender State geladen (Start: 2026-05-25)
 
   Lade aktuelle Forex-Daten via yfinance …
-    USD/CHF: close=0.78075, WR(prev→now): -19.7 → -78.2
-    EUR/USD: close=1.16591, WR(prev→now): -80.9 → -59.4
-    USD/JPY: close=159.25500, WR(prev→now): -13.2 → -18.8
-    GBP/USD: close=1.34570, WR(prev→now): -67.8 → -49.2
-    AUD/USD: close=0.71860, WR(prev→now): -72.2 → -44.6
+    USD/CHF: close=0.78637, WR(prev→now): -81.5 → -39.6
+    EUR/USD: close=1.16387, WR(prev→now): -56.7 → -57.4
+    USD/JPY: close=159.64301, WR(prev→now): -18.2 → -5.0
+    GBP/USD: close=1.34593, WR(prev→now): -40.3 → -32.4
+    AUD/USD: close=0.71644, WR(prev→now): -47.5 → -54.2
 
   Keine geschlossenen Trades heute.
 
   AKTUELLER STATUS:
-    Tranche_2x:   2999.99 CHF ( -0.00%) | 1 offene Positionen | Hebel 2.0x
-        SHORT USD/JPY: entry 159.25200 → now 159.25500  (-0.00% gross, seit 2026-05-26)
-    Tranche_15x:   1999.94 CHF ( -0.00%) | 1 offene Positionen | Hebel 15.0x
-        SHORT USD/JPY: entry 159.25200 → now 159.25500  (-0.00% gross, seit 2026-05-26)
+    Tranche_2x:   2998.53 CHF ( -0.05%) | 1 offene Positionen | Hebel 2.0x
+        SHORT USD/JPY: entry 159.25200 → now 159.64301  (-0.25% gross, seit 2026-05-26)
+    Tranche_15x:   1992.63 CHF ( -0.37%) | 1 offene Positionen | Hebel 15.0x
+        SHORT USD/JPY: entry 159.25200 → now 159.64301  (-0.25% gross, seit 2026-05-26)
 
-  GESAMT:   4999.93 CHF (-0.00% seit Start)
+  GESAMT:   4991.16 CHF (-0.18% seit Start)
 
   Generiere Reports …
   📊 Excel:  /home/runner/work/trading-bot/trading-bot/results/paper_report.xlsx
   📊 HTML:   /home/runner/work/trading-bot/trading-bot/results/paper_report.html
 
-  --- HISTORIE (7 Tage) ---
-    Total Return seit Start: -0.00%
+  --- HISTORIE (8 Tage) ---
+    Total Return seit Start: -0.18%
     State-Dateien:           /home/runner/work/trading-bot/trading-bot/results/paper_*.csv
 
 ==============================================================================
