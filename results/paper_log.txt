@@ -1,34 +1,34 @@
 ==============================================================================
-PAPER-TRADING-BOT — 2026-06-03 23:29 UTC
+PAPER-TRADING-BOT — 2026-06-04 23:06 UTC
 ==============================================================================
 
   Bestehender State geladen (Start: 2026-05-25)
 
   Lade aktuelle Forex-Daten via yfinance …
-    USD/CHF: close=0.79146, WR(prev→now): -26.2 → -6.5
-    EUR/USD: close=1.16090, WR(prev→now): -58.6 → -70.7
-    USD/JPY: close=159.94299, WR(prev→now): -1.5 → -9.4
-    GBP/USD: close=1.34223, WR(prev→now): -26.4 → -42.1
-    AUD/USD: close=0.71322, WR(prev→now): -32.3 → -56.8
+    USD/CHF: close=0.78931, WR(prev→now): -9.5 → -23.4
+    EUR/USD: close=1.16158, WR(prev→now): -70.3 → -64.5
+    USD/JPY: close=160.00000, WR(prev→now): -5.7 → -1.7
+    GBP/USD: close=1.34252, WR(prev→now): -39.7 → -59.4
+    AUD/USD: close=0.71372, WR(prev→now): -54.8 → -52.5
 
   Keine geschlossenen Trades heute.
 
   AKTUELLER STATUS:
-    Tranche_2x:   2997.40 CHF ( -0.09%) | 2 offene Positionen | Hebel 2.0x
-        SHORT USD/JPY: entry 159.25200 → now 159.94299  (-0.43% gross, seit 2026-05-26)
-        SHORT USD/CHF: entry 0.79146 → now 0.79146  (-0.00% gross, seit 2026-06-03)
-    Tranche_15x:   1986.98 CHF ( -0.65%) | 2 offene Positionen | Hebel 15.0x
-        SHORT USD/JPY: entry 159.25200 → now 159.94299  (-0.43% gross, seit 2026-05-26)
-        SHORT USD/CHF: entry 0.79146 → now 0.79146  (-0.00% gross, seit 2026-06-03)
+    Tranche_2x:   2998.81 CHF ( -0.04%) | 2 offene Positionen | Hebel 2.0x
+        SHORT USD/JPY: entry 159.25200 → now 160.00000  (-0.47% gross, seit 2026-05-26)
+        SHORT USD/CHF: entry 0.79146 → now 0.78931  (+0.27% gross, seit 2026-06-03)
+    Tranche_15x:   1994.06 CHF ( -0.30%) | 2 offene Positionen | Hebel 15.0x
+        SHORT USD/JPY: entry 159.25200 → now 160.00000  (-0.47% gross, seit 2026-05-26)
+        SHORT USD/CHF: entry 0.79146 → now 0.78931  (+0.27% gross, seit 2026-06-03)
 
-  GESAMT:   4984.38 CHF (-0.31% seit Start)
+  GESAMT:   4992.87 CHF (-0.14% seit Start)
 
   Generiere Reports …
   📊 Excel:  /home/runner/work/trading-bot/trading-bot/results/paper_report.xlsx
   📊 HTML:   /home/runner/work/trading-bot/trading-bot/results/paper_report.html
 
-  --- HISTORIE (10 Tage) ---
-    Total Return seit Start: -0.31%
+  --- HISTORIE (11 Tage) ---
+    Total Return seit Start: -0.14%
     State-Dateien:           /home/runner/work/trading-bot/trading-bot/results/paper_*.csv
 
 ==============================================================================
