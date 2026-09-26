@@ -1,41 +1,41 @@
 ==============================================================================
-PAPER-TRADING-BOT — 2026-09-25 00:13 UTC
+PAPER-TRADING-BOT — 2026-09-26 00:20 UTC
 ==============================================================================
 
   Bestehender State geladen (Start: 2026-05-25)
 
   Lade aktuelle Forex-Daten via yfinance …
-    USD/CHF: close=0.82818, WR(prev→now): -19.7 → -6.0
-    EUR/USD: close=1.13766, WR(prev→now): -92.7 → -94.5
-    USD/JPY: close=158.77000, WR(prev→now): -12.0 → -3.7
-    GBP/USD: close=1.32116, WR(prev→now): -91.6 → -99.7
-    AUD/USD: close=0.70111, WR(prev→now): -88.6 → -98.1
+    USD/CHF: close=0.82830, WR(prev→now): -19.7 → -6.5
+    EUR/USD: close=1.13921, WR(prev→now): -92.7 → -89.2
+    USD/JPY: close=157.18500, WR(prev→now): -12.0 → -29.7
+    GBP/USD: close=1.32464, WR(prev→now): -91.6 → -89.9
+    AUD/USD: close=0.70259, WR(prev→now): -88.6 → -91.7
 
   Keine geschlossenen Trades heute.
 
   AKTUELLER STATUS:
-    Tranche_2x:   2957.24 CHF ( -1.43%) | 5 offene Positionen | Hebel 2.0x
-        SHORT USD/JPY: entry 159.25200 → now 158.77000  (+0.30% gross, seit 2026-05-26)
-        SHORT USD/CHF: entry 0.79146 → now 0.82818  (-4.64% gross, seit 2026-06-03)
-        LONG EUR/USD: entry 1.15274 → now 1.13766  (-1.31% gross, seit 2026-06-05)
-        LONG GBP/USD: entry 1.33362 → now 1.32116  (-0.93% gross, seit 2026-06-05)
-        LONG AUD/USD: entry 0.70497 → now 0.70111  (-0.55% gross, seit 2026-06-05)
-    Tranche_15x:   1786.22 CHF (-10.69%) | 5 offene Positionen | Hebel 15.0x
-        SHORT USD/JPY: entry 159.25200 → now 158.77000  (+0.30% gross, seit 2026-05-26)
-        SHORT USD/CHF: entry 0.79146 → now 0.82818  (-4.64% gross, seit 2026-06-03)
-        LONG EUR/USD: entry 1.15274 → now 1.13766  (-1.31% gross, seit 2026-06-05)
-        LONG GBP/USD: entry 1.33362 → now 1.32116  (-0.93% gross, seit 2026-06-05)
-        LONG AUD/USD: entry 0.70497 → now 0.70111  (-0.55% gross, seit 2026-06-05)
+    Tranche_2x:   2966.76 CHF ( -1.11%) | 5 offene Positionen | Hebel 2.0x
+        SHORT USD/JPY: entry 159.25200 → now 157.18500  (+1.30% gross, seit 2026-05-26)
+        SHORT USD/CHF: entry 0.79146 → now 0.82830  (-4.65% gross, seit 2026-06-03)
+        LONG EUR/USD: entry 1.15274 → now 1.13921  (-1.17% gross, seit 2026-06-05)
+        LONG GBP/USD: entry 1.33362 → now 1.32464  (-0.67% gross, seit 2026-06-05)
+        LONG AUD/USD: entry 0.70497 → now 0.70259  (-0.34% gross, seit 2026-06-05)
+    Tranche_15x:   1833.79 CHF ( -8.31%) | 5 offene Positionen | Hebel 15.0x
+        SHORT USD/JPY: entry 159.25200 → now 157.18500  (+1.30% gross, seit 2026-05-26)
+        SHORT USD/CHF: entry 0.79146 → now 0.82830  (-4.65% gross, seit 2026-06-03)
+        LONG EUR/USD: entry 1.15274 → now 1.13921  (-1.17% gross, seit 2026-06-05)
+        LONG GBP/USD: entry 1.33362 → now 1.32464  (-0.67% gross, seit 2026-06-05)
+        LONG AUD/USD: entry 0.70497 → now 0.70259  (-0.34% gross, seit 2026-06-05)
 
-  GESAMT:   4743.46 CHF (-5.13% seit Start)
+  GESAMT:   4800.55 CHF (-3.99% seit Start)
 
   Generiere Reports …
   📊 Excel:  /home/runner/work/trading-bot/trading-bot/results/paper_report.xlsx
   📊 HTML:   /home/runner/work/trading-bot/trading-bot/results/paper_report.html
 
-  --- HISTORIE (91 Tage) ---
-    Total Return seit Start: -5.13%
-    Letzte 30 Tage:          -4.90%
+  --- HISTORIE (92 Tage) ---
+    Total Return seit Start: -3.99%
+    Letzte 30 Tage:          -4.15%
     State-Dateien:           /home/runner/work/trading-bot/trading-bot/results/paper_*.csv
 
 ==============================================================================
